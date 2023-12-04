@@ -1,6 +1,6 @@
 # c1audi0
-## community-oriented, creative digital technologist and student
-## (they/them)
+### community-oriented, creative digital technologist and student
+### (they/them)
 ![Designer (6)](https://github.com/claudio-codebase/claudio-codebase.github.io/assets/130110208/593e3a71-8092-41b5-b0ee-dda80e258c48)
 
 ### **current**
