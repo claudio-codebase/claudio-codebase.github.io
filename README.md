@@ -21,8 +21,8 @@ campus engagement:
 
 
 ### **past**
-new technologist @ [cyborg mobile and microsoft](https://newtechnologists.com/)
-advocacy intern @ [new roots institute](https://www.newrootsinstitute.org/)
+- new technologist @ [cyborg mobile and microsoft](https://newtechnologists.com/)
+- advocacy intern @ [new roots institute](https://www.newrootsinstitute.org/)
 
 
 ### interests:
