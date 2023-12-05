@@ -1,4 +1,4 @@
-# c1audi0 (they/them)
+# claudio (they/them)
 ### community-oriented, creative digital technologist and student
 ![Designer (6)](https://github.com/claudio-codebase/claudio-codebase.github.io/assets/130110208/593e3a71-8092-41b5-b0ee-dda80e258c48)
 
