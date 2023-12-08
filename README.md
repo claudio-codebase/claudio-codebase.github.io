@@ -11,7 +11,7 @@ check out my repository highlighting research opportunities in HCI!: [https://gi
 ![Designer (6)](https://github.com/claudio-codebase/claudio-codebase.github.io/assets/130110208/593e3a71-8092-41b5-b0ee-dda80e258c48)
 
 ### **current**
-- computer science @ pomona college
+**computer science @ pomona college**
 
 employment:
 - head coordinator @ [bbics](https://www.instagram.com/bbicspomona/)
