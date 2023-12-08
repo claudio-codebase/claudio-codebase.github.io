@@ -11,19 +11,25 @@ check out my repository highlighting research opportunities in HCI!: [https://gi
 ![Designer (6)](https://github.com/claudio-codebase/claudio-codebase.github.io/assets/130110208/593e3a71-8092-41b5-b0ee-dda80e258c48)
 
 ### **current**
+education:
 computer science @ pomona college
 
+
+bachelor's degree, class of 2026
+
+
 employment:
+- head coordinator @ [bbics](https://www.instagram.com/bbicspomona/)
 - service desk supervisor @ pomona college ITS
 - tour guide @ pomona admissions
-- head coordinator @ [bbics](https://www.instagram.com/bbicspomona/)
+
 
 campus engagement:
-- fellow @ 
 - board member @ latinx alliance
 - sponsor @ housing and residence life
 - volunteer @ draper center for community partnerships
 - academic affairs committee member
+
 
 development programs:
 - mentee and participant @ google computer science research mentorship program
