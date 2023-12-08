@@ -44,4 +44,5 @@ development programs:
 ### interests:
 - [listening to awesome music](https://open.spotify.com/user/0w437a8w6jkyfpy0arm9lumi5?si=04a3b6a8d02749d2)
 - [watching skateboarding videos](https://youtube.com/playlist?list=PLR8-g11b486O5S_lRrNuwrK5uf0gcgdDF&si=MQKhPrl-Y1og4bmD)
+- making art
 - urbanism and urban futures
