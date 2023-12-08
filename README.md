@@ -1,7 +1,11 @@
 # claudio (they/them)
 ### community-oriented, creative digital technologist and student
 access my full bio here: https://github.com/claudio-codebase
+
+
 connect with me via linkedin: https://www.linkedin.com/in/claudio-r-castillo/
+
+
 check out my repository highlighting research opportunities in HCI!: https://github.com/claudio-codebase/HCI_Research_Opps
 
 ![Designer (6)](https://github.com/claudio-codebase/claudio-codebase.github.io/assets/130110208/593e3a71-8092-41b5-b0ee-dda80e258c48)
