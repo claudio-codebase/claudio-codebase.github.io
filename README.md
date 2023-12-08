@@ -12,10 +12,8 @@ check out my repository highlighting research opportunities in HCI!: [https://gi
 
 ### **current**
 education:
+
 computer science @ pomona college
-
-
-bachelor's degree, class of 2026
 
 
 employment:
