@@ -27,9 +27,9 @@ campus engagement:
 
 
 development programs:
-- mentee and participant @ google computer science research mentorship program
+- mentee and participant @ [google computer science research mentorship program](https://research.google/outreach/csrmp/)
 - career fellow @ [smart start program](https://www.pomona.edu/administration/career-development/career-advising-resources/smart-start)
-- career prep fellow @ management leadership for tomorrow
+- career prep fellow @ [management leadership for tomorrow](https://mlt.org/career-prep/)
 
 ### **upcoming**
 - spring 2024 - teaching assistant, cs51p @ pomona cs 
