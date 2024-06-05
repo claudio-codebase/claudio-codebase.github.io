@@ -7,10 +7,10 @@ connect with me via linkedin: [https://www.linkedin.com/in/claudio-r-castillo/](
 ## experience
 _last updated summer 2024_
 
-i am currently an explorer intern @ microsoft on unceded coast salish peoples' land.
+i am currently an **explorer intern @ microsoft** on unceded coast salish peoples' land.
 
 at school, i assume the following roles: 
-- vice president of academic affairs @ associated students of pomona college
+- vp of academic affairs @ associated students of pomona college
 - coordinator @ black and brown in computer science
 - its service desk supervisor @ pomona college information technology services
 
