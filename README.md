@@ -23,11 +23,12 @@ tags: [rea] reading; [res] resource; [org] organization
 #### alternative networks
 -
 
-#### indigeneity
--
+#### indigenous sovereignty
+- [rea] [data colonialism and global inequalities](https://blogs.lse.ac.uk/inequalities/2024/05/01/todays-colonial-data-grab-is-deepening-global-inequalities/)
 
-#### responsible technology
--
+### policing
+- [res] [no tech for ice](https://notechforice.com/resources/#reports)
 
-#### organizing efforts in big tech
--
+#### responsible technology and community engagement
+- [org] [design justice network](https://designjustice.org/)
+- [res] [critical algorithm studies: a reading list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
