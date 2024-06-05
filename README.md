@@ -15,8 +15,14 @@ at school, i assume the following roles:
 - its service desk supervisor @ pomona college information technology services
 
 ## recommended reading, resources, organizations
-tags: <rea> reading; <res> resource; <org> organization
+tags: [rea] reading; [res] resource; [org] organization
 **green computing**
+- 
 **alternative networks**
+-
+**indigeneity**
+-
 **responsible technology**
+-
 **organizing efforts in big tech**
+-
