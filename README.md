@@ -16,13 +16,18 @@ at school, i assume the following roles:
 
 ## recommended reading, resources, organizations
 tags: [rea] reading; [res] resource; [org] organization
-**green computing**
+
+#### green computing
 - 
-**alternative networks**
+
+#### alternative networks
 -
-**indigeneity**
+
+#### indigeneity
 -
-**responsible technology**
+
+#### responsible technology
 -
-**organizing efforts in big tech**
+
+#### organizing efforts in big tech
 -
