@@ -13,7 +13,7 @@ _last updated summer 2024_
 
 i am currently an **explorer intern @ microsoft** on unceded coast salish peoples' land.
 
-at school, i assume the following major roles: 
+during the school year at pomona college, i assume the following major roles: 
 * vp of academic affairs @ associated students of pomona college
 * coordinator @ black and brown in computer science
 * its service desk supervisor @ pomona college information technology services
