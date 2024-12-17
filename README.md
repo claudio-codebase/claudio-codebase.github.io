@@ -10,12 +10,13 @@ _last updated summer 2024_
 * i was a **new technologist** in summer 2023.
 
 ### things that i do at school
-* i am involved in student government! vice president of academic affairs @ [associated students of pomona college](https://pomonastudents.org/senators)
-* i am passionate about building diverse communities in cs! coordinator @ [black and brown in computer science](https://www.instagram.com/bbicspomona/)
-* i love to do fun projects about the internet, technology, and media! founder, vice-president @ [circuits + internet + media + software](https://www.instagram.com/5circuitsmedia/)
+* i am involved in student government! **vice president of academic affairs @** [associated students of pomona college](https://pomonastudents.org/senators)
+* i am passionate about building diverse communities in cs! **coordinator @** [black and brown in computer science](https://www.instagram.com/bbicspomona/)
+* i love to do fun projects about the internet, technology, and media! **founder, vice-president @** [circuits + internet + media + software](https://www.instagram.com/5circuitsmedia/)
 
 ### a little bit more about me..
-
+* i love watching skate videos!
+* i enjoy all kinds of [music](https://open.spotify.com/playlist/37i9dQZF1FoGmN8C5NBaYG?si=3c90e86a5c5b443d)
 
 ## recomended resources
 
