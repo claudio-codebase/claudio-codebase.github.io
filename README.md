@@ -5,9 +5,9 @@ connect with me on linkedin: [https://www.linkedin.com/in/claudio-r-castillo/](h
 
 ### internship experiences
 _last updated summer 2024_
-i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
-i was an **explorer intern @ microsoft** in summer 2024.
-i was a **new technologist** in summer 2023.
+* i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
+* i was an **explorer intern @ microsoft** in summer 2024.
+* i was a **new technologist** in summer 2023.
 
 ### things that i do at school
 * i am involved in student government! vice president of academic affairs @ [associated students of pomona college](https://pomonastudents.org/senators)
