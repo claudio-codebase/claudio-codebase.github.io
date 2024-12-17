@@ -1,23 +1,21 @@
-# hello, my name is claudio (they/them).
-### i am a community-oriented, computer science student.
-### currently learning about web development and creative computation.
-### interested in technology's intersections with education, communication, human rights, and sustainability.
+## hello, my name is claudio (they/them).
+### i am a computer science student at pomona college.
 
-access my full bio here: [https://github.com/claudio-codebase](https://github.com/claudio-codebase)
+connect with me on linkedin: [https://www.linkedin.com/in/claudio-r-castillo/](https://www.linkedin.com/in/claudio-r-castillo/)
 
-connect with me via linkedin: [https://www.linkedin.com/in/claudio-r-castillo/](https://www.linkedin.com/in/claudio-r-castillo/)
-
-
-## experience
+### internship experiences
 _last updated summer 2024_
+i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
+i was an **explorer intern @ microsoft** in summer 2024.
+i was a **new technologist** in summer 2023.
 
-i am currently an **explorer intern @ microsoft** on unceded coast salish peoples' land.
+### things that i do at school
+* i am involved in student government! vice president of academic affairs @ [associated students of pomona college](https://pomonastudents.org/senators)
+* i am passionate about building diverse communities in cs! coordinator @ [black and brown in computer science](https://www.instagram.com/bbicspomona/)
+* i love to do fun projects about the internet, technology, and media! founder, vice-president @ [circuits + internet + media + software](https://www.instagram.com/5circuitsmedia/)
 
-during the school year at pomona college, i assume the following major roles: 
-* vp of academic affairs @ associated students of pomona college
-* coordinator @ black and brown in computer science
-* its service desk supervisor @ pomona college information technology services
-* other extracurricular and volunteer roles across a variety of campus and local organizations
+### a little bit more about me..
+
 
 ## recomended resources
 
