@@ -15,7 +15,8 @@ _last updated summer 2024_
 * i love to do fun projects about the internet, technology, and media! **founder, vice-president @** [circuits + internet + media + software](https://www.instagram.com/5circuitsmedia/)
 
 ### a little bit more about me..
-* i love watching skate videos!
+* favorite apps: pinterest, microsoft to-do, spotify (though, much less with more updates)
+* favorite tech: ipod, windows 7, e-readers, ipad + apple pencil
 * i enjoy all kinds of [music](https://open.spotify.com/playlist/37i9dQZF1FoGmN8C5NBaYG?si=3c90e86a5c5b443d)
 
 ## recomended resources
