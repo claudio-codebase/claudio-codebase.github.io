@@ -1,4 +1,6 @@
-## hello, my name is claudio (they/them). i am a computer science student at pomona college. [connect with me on linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
+## hello, my name is claudio (they/them). 
+## i am a computer science student at pomona college. 
+## [connect with me on linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
 
 ### internship experiences
 * i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
