@@ -1,13 +1,11 @@
-## hello, my name is claudio (they/them).
-### i am a computer science student at pomona college.
-
-[connect with me on linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
+## hello, my name is claudio (they/them). i am a computer science student at pomona college.
 
 ### internship experiences
-_last updated summer 2024_
+[connect with me on linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
 * i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
 * i was an **explorer intern @ microsoft** in summer 2024.
 * i was a **new technologist** in summer 2023.
+_last updated december 2024_
 
 ### things that i do at school
 * i am involved in student government! **vice president of academic affairs @** [associated students of pomona college](https://pomonastudents.org/senators)
