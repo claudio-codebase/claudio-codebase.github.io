@@ -12,4 +12,4 @@
 
 ### a little bit more about me..
 * favorite apps: pinterest, microsoft to-do, spotify
-* i enjoy all kinds of [music](https://open.spotify.com/playlist/37i9dQZF1FoGmN8C5NBaYG?si=3c90e86a5c5b443d)
+* favorite technology: ipad + apple pencil, kindle, windows 7 laptops
