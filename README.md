@@ -1,5 +1,6 @@
-### [connect with me on linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
-you can also [schedule an appointment with me](https://calendly.com/claudio_c/25-minute-meeting)
+### welcome!
+* connect with me on [linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
+* schedule an [appointment](https://calendly.com/claudio_c/25-minute-meeting) with me
 
 ### internship experiences
 * i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
