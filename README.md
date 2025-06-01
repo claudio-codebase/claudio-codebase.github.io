@@ -1,9 +1,8 @@
 ### welcome!
-* connect with me on [linkedin](https://www.linkedin.com/in/claudio-r-castillo/)
-* schedule an [appointment](https://calendly.com/claudio_c/25-minute-meeting) with me
+* connect with me on [linkedin](https://www.linkedin.com/in/claudio-r-castillo/), i respond quickly to messages!
 
 ### internship experiences
-* i have accepted an offer as a **software engineer intern @ microsoft** for summer 2025.
+* i am a **software engineer intern @ microsoft**, presently, in summer 2025.
 * i was an **explorer intern @ microsoft** in summer 2024.
 * i was a **new technologist** in summer 2023.
 
